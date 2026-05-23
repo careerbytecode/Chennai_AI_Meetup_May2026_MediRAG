@@ -1,5 +1,6 @@
 # Chennai_AI_Meetup_May2026_MediRAG
 MediRAG is an intelligent Retrieval-Augmented Generation (RAG) system designed to provide accurate, context-aware medical information by combining LLMs + Vector Search + Real-time APIs.
+
 [Github link] (https://github.com/askdharshiniai/MediRAG)
 
 🔑 API & Setup Requirements
